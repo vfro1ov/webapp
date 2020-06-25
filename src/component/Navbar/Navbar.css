@@ -1,0 +1,19 @@
+.nav {
+    grid-area: n;
+    background-color: lightgoldenrodyellow;
+    height: 50px;
+    
+  }
+  .item {
+color: mistyrose  ;
+  }
+  
+
+.Navbar {
+     list-style-type: none;
+  width: 200px;
+  background-color: aqua;
+}
+li {
+    color: black;
+}

@@ -1,0 +1,14 @@
+.profile{
+   background-color: burlywood;
+   
+}
+.container {
+    grid-area: c;
+    margin: 0 auto;
+    padding-right: 30%;
+    position: relative;
+    text-align: center;
+}
+.container img {
+    width: 50%;
+}
