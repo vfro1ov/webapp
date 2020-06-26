@@ -1,14 +1,14 @@
 import React from 'react';
 import Post from './Post/Post';
-import "./Posts.css"
+import s from "./Posts.module.css"
 
-const Posts = () => {
+const Posts = (props) => {
     return (
-        <div className='posts'>
+        <div className={s.posts}>
+          <div> <Post  message='Привет как ты? '/> </div>
+           <Post message = 'Давно не было в уличных гонках!'/>
            <Post />
-           <Post />
-           <Post />
-           
+         
             </div>
     )
 }

@@ -8,7 +8,10 @@
     padding-right: 30%;
     position: relative;
     text-align: center;
+    size: 20px;
 }
 .container img {
-    width: 50%;
+ 
+    border-radius: 60px; 
+    width:  120px;
 }

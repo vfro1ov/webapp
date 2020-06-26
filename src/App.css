@@ -6,3 +6,14 @@
     grid-template-rows: 60px 1fr;
     grid-template-columns: 2fr 10fr;
 }
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.appWrapperContent {
+    grid-area: c;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}

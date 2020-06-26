@@ -1,0 +1,4 @@
+.dialogContainer {
+    grid-template-columns: 30px 1fr ;
+background-color: chocolate;
+}

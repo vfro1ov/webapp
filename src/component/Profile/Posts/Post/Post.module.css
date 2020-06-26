@@ -1,0 +1,26 @@
+.post {
+  margin: auto;
+  padding: 20px;
+ align-items: flex;
+ 
+
+
+}
+  .postItem {
+   size: 10px;
+   border-radius: 30px;
+   height: 20%;
+  
+  
+  }
+  .ava {
+    height: 30%;
+    width: 30%;
+   border-radius: 20px;
+  }
+  .postName {
+    text-align: left;
+    margin-left: 130px;
+    padding: 20px;
+
+  }
